@@ -1,1 +1,2 @@
-print "Wahey!"
+while True:
+    print "Wahey!"
